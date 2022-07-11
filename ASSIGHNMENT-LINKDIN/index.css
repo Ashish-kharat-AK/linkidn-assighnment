@@ -1,0 +1,314 @@
+/* #container{
+    margin: 100%;
+    padding: 100%;
+} */
+
+#first-div{
+    display: flex;
+    background-color: white;
+    cursor: pointer;
+}   
+.my-presets{
+    margin-left: 130px;
+    color: tomato;
+    cursor: pointer;
+}
+.product{
+    color: black;
+    margin-top: 30px;
+    position: absolute;
+    right: 130px;
+    font-size: medium;
+    cursor: pointer;
+}
+.sighin{
+        color: tomato;
+        position: absolute;
+        right: 50px;
+        margin-top: 30px;
+        cursor: pointer;
+}
+#container_2{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+.first{
+    align-items: center;
+    text-align: center;
+    padding-left: 400px;
+    font-size: 13px;
+    cursor: pointer;
+}
+.second{
+    font-size: 14px;
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+    cursor: pointer;
+}
+#container_3{
+    border: 1px solid rgb(13, 12, 12);
+    height: 320px;
+    background-color: blue;
+    
+}
+#Open_cart{
+    
+    text-align: center;
+}
+.Open{
+    font-size: 30px;
+    padding-top: 20px;
+    color: white;
+}
+.Store{
+    color: white;
+    font-size: 20px;
+    line-height: 10%;
+}
+.label{
+    margin-top: 50px;
+  
+}
+#container_4{
+    padding-left:40px;
+    padding-top: 50px;
+    display: flex;
+    grid-gap: 20px;
+}
+#div_1{
+    border: 1px solid gainsboro;
+    width: 190px;
+    height: 170px;
+    border-radius: 15px;
+}
+.img_1{
+    /* border: 1px solid red; */
+    height: 90px;
+    width: 100px;
+    padding-left: 50px;
+    /* margin-left: 30px; */
+    margin-top: 20px;
+}
+.open_mart{
+    color: black;
+    padding: 60px;
+    margin-top: 80px;
+    line-height: 50px;
+    text-align: center;
+}
+#food-deliver-1{
+    display: flex;
+    grid-gap: 20px;
+    padding-left: 20px;
+    
+}
+#container-5{
+    padding-top: 90px;
+}
+#Templates{
+    text-align: center;
+    font-size: 15px;
+    line-height: 15px;
+    padding-top: 60px;
+}
+
+.food-deliver{
+    /* border: 1px solid gainsboro; */
+    height: 320px;
+    width: 250px;
+    display: flex;
+    
+}
+.p{
+    display: flex;
+    margin-top: 20px;
+}
+.img3{
+    display: flex;
+    border: 1px solid gainsboro;
+    height: 110px;
+    width: 250px;
+}
+.sales{
+    font-size: 12px;
+    padding-top: 20px;
+}
+.two{
+    padding-top: 10px;
+    padding-left: 170px;
+}
+.Details{
+    margin-left: 30px;
+    font-size: 19px;
+    margin-top: 20px;
+}
+.Live{
+    margin-left: 20px;
+    font-size: 18px;
+    background-color: blue;
+    color: white;
+}
+#View_more1{
+    padding-top: 50px;
+    margin-top: 30px;
+    padding-left: 700px;
+}
+#main_div-img{
+    display: flex;
+    padding-top: 80px;
+    
+}
+#img-1{
+    padding-left: 150px;
+    height: 300px;
+    width: 400;
+}
+.img-2{
+    height: 150px;
+    width: 250px;
+}
+.uniqe{
+    padding-left: 50px;
+    font-size: 20px;
+    padding-top: 40px;
+}
+.view{
+    margin-top: 30px;
+    margin-left: 50px;
+} 
+.food-deliver{
+    padding-top: 30px;
+    display: flex;
+    margin-left: 30px;
+   
+}
+#View_more2{
+    padding-top: 20px;
+    text-align: center;
+}
+#main-wordpress{
+    margin-left: 30px;
+    padding-top: 30px;
+    display: flex;
+}
+#wordpress{
+    padding-left: 50px;
+    /* border: 1px solid red; */
+    /* // shadow use// */
+    height: 300px;
+    width: 700px;
+}
+.p-view{
+    padding-top: 30px;
+}
+#main-img-wordpress{
+    margin-top: 70px;
+    margin-left: 50px;
+    height: 200px;
+    width: 500px;
+    margin-left: 110px;
+    display: flex;
+    gap: 20px;
+}
+.main-1{
+    height: 200px;
+    width: 250px;
+}
+#img-div{
+    display: flex;
+}
+#Recently-added{
+    justify-content: space-around;
+    display: flex;
+    padding-left: 30px;
+}
+.Opencart{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Css-Templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.WordPress-template{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Prestashop-Templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.html-templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Woocommerce-Templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Shopify-Templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+.Landing-Templates{
+    border: 1px solid rgb(60, 56, 56);
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin-top: 20px;
+}
+#footer-information{
+    margin-top: 80px;
+    background-color: black;
+    color: white;
+    display: flex;
+    padding-left: 80px;
+}
+#account{
+    margin-left: 90px;
+}
+#service{
+    margin-left: 150px;
+}
+#items-sold{
+    margin-left: 180px;
+}
+.sold{
+    display: flex;
+}
+.items{
+    margin-left: 20px;
+}
+#DCode{
+    padding-top: 25px;
+    padding-left: 25px;
+    background-color: gray;
+
+}
+
